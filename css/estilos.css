@@ -1,0 +1,36 @@
+body{
+    background: url(../imagenes/torta.jpg) no-repeat fixed center center #333;
+    background-size: cover;
+}
+
+.aside{
+    min-height: 80px;
+}
+.buscador{
+    min-height: 15rem;
+    
+}
+.principal{
+    min-height: 15rem;
+}
+.img1{
+    margin-top: 10px;
+    width: 100%;
+}
+h1{
+    color: white;
+}
+h5{
+    color: white;
+}
+.imagen1{
+    width: 600px;
+    height: 400px;
+}
+.callout{
+    border-radius: 10px;
+}
+.comentario{
+    width: 100%;
+    
+}
